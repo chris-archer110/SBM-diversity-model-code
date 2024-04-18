@@ -1,6 +1,6 @@
 # SBM-diversity-model-code
 
-Source code for the paper "Modeling Diversity in Time-Evolving Collaboration Networks" By Christopher Archer and Gireeja Ranade
+Source code for the paper "Modeling Diversity Dynamics in Time-Evolving Collaboration Networks" By Christopher Archer and Gireeja Ranade
 
 The APS dataset can be requested with this link: https://journals.aps.org/datasets
 
