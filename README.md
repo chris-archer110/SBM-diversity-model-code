@@ -1,4 +1,4 @@
-# SBM-diversity-model
+# SBM-diversity-model-code
 
 Source code for the paper "Modeling Diversity in Time-Evolving Collaboration Networks" By Christopher Archer and Gireeja Ranade
 
