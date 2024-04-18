@@ -1,6 +1,14 @@
 # SBM-diversity-model-code
 
-Source code for the paper "Modeling Diversity Dynamics in Time-Evolving Collaboration Networks" By Christopher Archer and Gireeja Ranade. The pipeline for the data processing is data-parsing.ipynb -> data_filtering.ipynb -> graph_builder.ipynb
+Source code for the paper "Modeling Diversity Dynamics in Time-Evolving Collaboration Networks" By Christopher Archer and Gireeja Ranade. 
+  
+  (1) data_parsing.ipynb processes the raw APS publication data into a csv file
+  
+  (2) data_filtering.ipynb applies all the filters described in the paper on the data
+  
+  (3) graph_builder.ipynb makes the filtered data into a graph, then fits the model with estimated parameter values
+
+The pipeline for the data processing is data_parsing.ipynb -> data_filtering.ipynb -> graph_builder.ipynb
 
 The APS dataset can be requested with this link: https://journals.aps.org/datasets
 
