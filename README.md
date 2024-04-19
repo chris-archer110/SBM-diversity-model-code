@@ -10,7 +10,7 @@ Source code for the paper "Modeling Diversity Dynamics in Time-Evolving Collabor
 
 The pipeline for the data processing is data_parsing.ipynb -> data_filtering.ipynb -> graph_builder.ipynb
 
-The dataset provided _aps_filter_data.csv_ is the publication data after the filters in the paper have been applied (after _data_filtering.ipynb_)
+The dataset provided _aps_filtered_data.csv_ is the publication data after the filters in the paper have been applied (after _data_filtering.ipynb_)
 
 The full APS dataset can be requested with this link: https://journals.aps.org/datasets
 
