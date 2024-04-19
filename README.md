@@ -8,9 +8,13 @@ Source code for the paper "Modeling Diversity Dynamics in Time-Evolving Collabor
   
   (3) _graph_builder.ipynb_ makes the filtered data into a graph, then fits the model with estimated parameter values
 
+  (4) _aps_filtered_data.csv_ is the publication data after the filters in the paper have been applied (after _data_filtering.ipynb_)
+
+  (5) _aps_filtered_data_no_restriction.csv_ is the publication data under the same filters but with no coauthor restrictions (this is used to generate Figure 5 in the paper)
+
 The pipeline for the data processing is data_parsing.ipynb -> data_filtering.ipynb -> graph_builder.ipynb
 
-The dataset provided _aps_filtered_data.csv_ is the publication data after the filters in the paper have been applied (after _data_filtering.ipynb_)
+The datasets provided _aps_filtered_data.csv_, _aps_filtered_data_no_restriction.csv_ is the publication data after the filters in the paper have been applied (after _data_filtering.ipynb_) in _aps_filtered_data.csv_, 
 
 The full APS dataset can be requested with this link: https://journals.aps.org/datasets
 
